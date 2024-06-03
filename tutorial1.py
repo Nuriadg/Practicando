@@ -1,4 +1,4 @@
-`# tutorial1.py 
+# tutorial1.py 
 """ Programa per mapejar una zona al voltant de les ciutats costeres de la comarca de la Selva. """
 
 from rutes_i_monuments import *
